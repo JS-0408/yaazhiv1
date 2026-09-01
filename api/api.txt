@@ -1,0 +1,3 @@
+lang = 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
+groq =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
+url supabase= postgresql://postgres:[Magasri@0408]@db.dqltypduncffprgvjxxf.supabase.co:5432/postgres
